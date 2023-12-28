@@ -1,0 +1,7 @@
+libraries required 
+    1. streamlit
+    2. google-generativeai
+    3. python-dotenv
+    4. langchain
+    5. chromadb
+    5. PyPDF2
